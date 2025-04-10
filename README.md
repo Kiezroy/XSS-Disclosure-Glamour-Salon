@@ -48,7 +48,7 @@ Because the code renders the user submitted content without any escaping or sani
 - Refresh the page
 - The injected code will execute in the browser and display an alert popup with the message "hacked"
 
-![](../XSS%20Dislcosure%20-%20Glamour%20Salon/attachments/Pasted%20image%2020250407212811.png)
+![](/attachments/Pasted%20image%2020250407212811.png)
 
 ![](../XSS%20Dislcosure%20-%20Glamour%20Salon/attachments/Pasted%20image%2020250407212818.png)
 
