@@ -90,10 +90,10 @@ TBD: Awaiting Patch Release
 
 **Vendor / Maintainer Information**
 
-Author: Hiruna Gallage
-Website: https://hiruna.dev
-GitHub: https://github.com/hirunaofficial/salon-management-system
-Email: hello@hiruna.dev
+Author: Hiruna Gallage  
+Website: https://hiruna.dev  
+GitHub: https://github.com/hirunaofficial/salon-management-system  
+Email: hello@hiruna.dev  
 
 
 **Contact Information**
