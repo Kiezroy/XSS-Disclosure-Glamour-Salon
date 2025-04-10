@@ -91,16 +91,12 @@ TBD: Awaiting Patch Release
 **Vendor / Maintainer Information**
 
 Author: Hiruna Gallage
-
 Website: https://hiruna.dev
-
 GitHub: https://github.com/hirunaofficial/salon-management-system
-
 Email: hello@hiruna.dev
 
 
 **Contact Information**
 
 Kyle Nguyen
-
 kyletnguyen16@gmail.com
