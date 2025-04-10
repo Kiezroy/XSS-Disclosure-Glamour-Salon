@@ -33,7 +33,7 @@ Upon running the command, I noticed the following issue:
 
 I then manually went into the `blog.php` file in the project to confirm the vulnerability and located it in line 65.
 
-![](/XSS%20Dislcosure%20-%20Glamour%20Salon/attachments/VirtualBoxVM_2E1IIXvfaD.png)
+![](attachments/VirtualBoxVM_2E1IIXvfaD.png)
 
 `<p class="p-border"><?= $comment['content'] ?></p>`
 
@@ -48,9 +48,9 @@ Because the code renders the user submitted content without any escaping or sani
 - Refresh the page
 - The injected code will execute in the browser and display an alert popup with the message "hacked"
 
-![](/XSS%20Dislcosure%20-%20Glamour%20Salon/attachments/Pasted%20image%2020250407212811.png)
+![](attachments/Pasted%20image%2020250407212811.png)
 
-![](XSS%20Dislcosure%20-%20Glamour%20Salon/attachments/Pasted%20image%2020250407212818.png)
+![](attachments/Pasted%20image%2020250407212818.png)
 
 **Impact**
 
