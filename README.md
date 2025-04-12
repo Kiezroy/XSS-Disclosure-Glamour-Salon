@@ -80,9 +80,9 @@ I opened an issue on the repository which can be found here: https://github.com/
 
 3-14-25: Issue opened on Github Repository
 
-3-15-25: Disclosed vulnerability to vendor's email
+3-15-25: Disclosed vulnerability to vendor's email - No Response
 
-3-30-25: Submitted contact form on vendor's personal site
+3-30-25: Submitted contact form on vendor's personal site - No Response
 
 4-10-25: Official Write Up Published
 
