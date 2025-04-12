@@ -86,7 +86,9 @@ I opened an issue on the repository which can be found here: https://github.com/
 
 4-10-25: Official Write Up Published
 
-TBD: Awaiting Patch Release
+4-12-25: Edited Github Issue to include Write Up Link
+
+TBD: Awaiting Patch Release and Vendor Response
 
 **Vendor / Maintainer Information**
 
